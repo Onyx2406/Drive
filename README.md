@@ -1,0 +1,1 @@
+Using Google Drive APIs, I have displayed all the word docs in a user’s Google Drive folder and display as a list in the sidebar. On clicking the doc, it will open the doc in the main section beside the sidebar.
